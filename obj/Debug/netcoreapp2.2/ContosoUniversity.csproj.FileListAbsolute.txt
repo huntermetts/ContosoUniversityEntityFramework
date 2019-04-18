@@ -33,3 +33,4 @@ C:\Users\HunterMetts\backendWorkspace\ContosoUniversity\ContosoUniversity\obj\De
 C:\Users\HunterMetts\backendWorkspace\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
 C:\Users\HunterMetts\backendWorkspace\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
 C:\Users\HunterMetts\backendWorkspace\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
+C:\Users\HunterMetts\backendWorkspace\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
